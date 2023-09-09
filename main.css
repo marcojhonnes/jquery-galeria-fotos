@@ -53,18 +53,18 @@ ul {
     flex: wrap;
 }
 
-    ul li {
-        max-width: 25%;
-        list-style: none;
-        position: relative;
-        max-width: 280px;
-        overflow-y: hidden;
-    }
-
-    ul li img {
+ul li {
+    max-width: 25%;
+    list-style: none;
+    position: relative;
+    max-height: 280px;
+    overflow-y: hidden;
+}
+    
+ul li img {
         width: 100%;
     }
-
+    
     .overlay-imagem-link {
         padding: 16px;
         background-color: rgba(0, 0, 0, 0.7);
