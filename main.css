@@ -74,6 +74,8 @@ ul li img {
         width: 100%;
         opacity: 0;
         transition: all ease .5s;
+        max-width: 280px;
+        width: auto;
     }
 
     .overlay-imagem-link a {
